@@ -5,4 +5,4 @@ I've been working in IT and software development for more than 25 years. Startin
 - 🔭 I’m currently working on WhiskyBook, an app for whisky tastings.
 - 📫 You reach me LIVE on [Twitch](https://twitch.tv/jeanvaljean80).
 - :bird: I share updates on [Twitter](https://twitter.com/jeanvaljean80).
-- :pager: I talk with you on [Discord](https://discord.gg/aH6UBhz), join the Coding Gang. :wink:
+- :pager: I talk with you on [Discord](https://discord.gg/MjtKTgbv7B), join the Coding Gang. :wink:
