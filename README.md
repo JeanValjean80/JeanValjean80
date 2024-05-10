@@ -6,3 +6,6 @@ I've been working in IT and software development for more than 25 years. Startin
 - 📫 You reach me LIVE on [Twitch](https://twitch.tv/jeanvaljean80).
 - :bird: I share updates on [Twitter](https://twitter.com/jeanvaljean80).
 - :pager: I talk with you on [Discord](https://discord.gg/MjtKTgbv7B), join the Coding Gang. :wink:
+
+#### Socials:
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jeanvaljean80) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jeanvaljean80) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jeanvaljean80) 
