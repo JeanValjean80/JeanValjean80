@@ -3,9 +3,8 @@ I've been working in IT and software development for more than 25 years. Startin
 
 #### Facts:
 - 🔭 I’m currently working on WhiskyBook, an app for whisky tastings.
-- 📫 You reach me LIVE on [Twitch](https://twitch.tv/jeanvaljean80).
-- :bird: I share updates on [Twitter](https://twitter.com/jeanvaljean80).
-- :pager: I talk with you on [Discord](https://discord.gg/MjtKTgbv7B), join the Coding Gang. :wink:
+- 📚 Creating development courses.
+- 🧑🏻‍💻 Ask me anything about tech.
 
 #### Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jeanvaljean80) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jeanvaljean80) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jeanvaljean80) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jeanvaljean80) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jeanvaljean80) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jeanvaljean80) [![Discord](https://img.shields.io/discord/1208836661136465960?logo=Discord&logoColor=white&label=Discord&labelColor=%235865F2)](https://discord.gg/MjtKTgbv7B)
