@@ -3,6 +3,7 @@ I’ve been in the IT and software development game for over two decades, and I�
 
 #### Facts:
 - 🔭 I’m currently working on WhiskyBook, an app for whisky tastings.
+- 🔭 I'm also working on a TwitchBot with Blazor.
 - 📚 Creating development courses.
 - 🧑🏻‍💻 Ask me anything about tech.
 
